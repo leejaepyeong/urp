@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qS9CYEnL1Zo784RMn38Fa72V64Hn4iciEK1HdrfV1O54UYQHpAJp1zO8qqd8Aus5Qv4Q+li+pINFq9R/Qhxirg==",
+  "success": true,
+  "projectFilePath": "/Users/mr13/Projects/TestServer/TestServer/TestServer.csproj",
+  "expectedPackageFiles": [
+    "/Users/mr13/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
